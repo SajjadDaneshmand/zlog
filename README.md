@@ -1,2 +1,2 @@
 # zlog
-minimal personal weblog
+personal weblog
